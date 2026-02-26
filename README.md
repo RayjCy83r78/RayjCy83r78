@@ -1,7 +1,6 @@
 # <a href="https://www.linkedin.com/in/RayJohnson/">Raymond Johnson</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
-
+What started as a simple home lab has turned into a full-on playground for learning how attackers think and how defenders respond. I use it to test ideas, break patterns, build detections, and understand threats from the inside out. These projects aren’t just exercises—they’re snapshots of how I’m leveling up as a future SOC analyst. If you want to see the kind of work that fuels my curiosity and keeps me pushing forward, my lab is the best place to start.
 
 ## ⚠️ Vulnerability Management Projects
 
