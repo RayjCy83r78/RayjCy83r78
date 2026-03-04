@@ -7,10 +7,7 @@ What started as a simple home lab has turned into a full-on playground for learn
 - **[Vulnerability Management Program Implementation](https://github.com/RayjCy83r78/vulnerability-management-program/tree/main)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-## 🚨 
-
-<hr/>
-## 🤳 Connect With Me
+---
 
 
 
