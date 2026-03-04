@@ -9,7 +9,7 @@ What started as a simple home lab has turned into a full-on playground for learn
 
 ## 🚨 
 
-<hr/>
+
 ## 🤳 Connect With Me
 
 
