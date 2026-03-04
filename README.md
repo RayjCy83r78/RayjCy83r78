@@ -11,9 +11,6 @@ What started as a simple home lab has turned into a full-on playground for learn
 
 
 
-[<img align="left" alt="Ray Johnson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/ray-johnson-3606061a0
 
 
 
