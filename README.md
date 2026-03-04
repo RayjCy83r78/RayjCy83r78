@@ -26,6 +26,10 @@ What started as a simple home lab has turned into a full-on playground for learn
 
 
 
+
+
+
+
 # Windows 11 DISA STIG Compliance Lab — Tenable Vulnerability Management
 
 ## Overview
